@@ -7,5 +7,3 @@ Mini aplicativo para consultar endereços utilizando html, css, javascript e axi
 
 ![Mini app](/img/tela.png "Mini app")
 
-## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
